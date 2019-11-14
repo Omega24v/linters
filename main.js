@@ -1,7 +1,3 @@
 (() => {
-
-    console.log("Hello World")
-    
-    function ass() {}
-    sdsdd(sds''')
+    console.log("Hello World");
 })()
